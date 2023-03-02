@@ -9,7 +9,8 @@
             margin:0px;
             padding:0px;
             text-align:center;
-            width:100%;
+            width:80%;
+            padding:0 10%;
         }
         div {
             position:absolute;
