@@ -9,8 +9,8 @@
             margin:0px;
             padding:0px;
             text-align:center;
-            width:80%;
-            padding:0 10%;
+            width:50%;
+            padding:0 25%;
         }
         div {
             position:absolute;
@@ -22,7 +22,7 @@
     </head>
     <body>
         <div>
-            <p><strong>Fleeches (FL-EE-CHUH)</strong> are large, greenish leech-like creatures found in Oddworld’s swamps, jungles, underground vaults, and sewers.<br/ >Abe encounters Fleeches during his travels through Necrum and the Soulstorm Brewery Kennels.</p>
+            <p><strong>Fleeches (FL-EE-CHUH)</strong> are large, greenish leech-like creatures found in Oddworld’s swamps, jungles, underground vaults, and sewers.<br/ ><br />Abe encounters Fleeches during his travels through Necrum and the Soulstorm Brewery Kennels.</p>
         </div>
     </body>
 </html>
