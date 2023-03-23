@@ -2,23 +2,23 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <title>phleech</title>
-    <style type="text/css">
-        p {
-            font-family: "Times New Roman", Times, serif;
-            font-size:16px;
-            margin:0px;
-            padding:0px;
-            text-align:center;
-            width:50%;
-            padding:0 25%;
-        }
-        div {
-            position:absolute;
-            left:0px;
-            top:40%;
-            width:100%;
-        }
-    </style>
+        <style type="text/css">
+            p {
+                font-family: "Times New Roman", Times, serif;
+                font-size:16px;
+                margin:0px;
+                padding:0px;
+                text-align:center;
+                width:50%;
+                padding:0 25%;
+            }
+            div {
+                position:absolute;
+                left:0px;
+                top:40%;
+                width:100%;
+            }
+        </style>
     </head>
     <body>
         <div>
