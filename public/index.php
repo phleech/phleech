@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <title>phleech</title>
-    <style>
+    <style type="text/css">
         p {
             font-family: "Times New Roman", Times, serif;
             font-size:16px;
@@ -22,7 +22,7 @@
     </head>
     <body>
         <div>
-            <p><strong>Fleeches (FL-EE-CHUH)</strong> are large, greenish leech-like creatures found in Oddworld’s swamps, jungles, underground vaults, and sewers.<br/ ><br />Abe encounters Fleeches during his travels through Necrum and the Soulstorm Brewery Kennels.</p>
+            <p><strong>Fleeches (FL-EE-CHUH)</strong> are large, greenish leech-like creatures found in Oddworld’s swamps, jungles, underground vaults, and sewers.<br /><br />Abe encounters Fleeches during his travels through Necrum and the Soulstorm Brewery Kennels.</p>
         </div>
     </body>
 </html>
