@@ -3,26 +3,47 @@
     <head>
         <title>phleech</title>
         <style type="text/css">
-            p {
-                font-family: "Times New Roman", Times, serif;
-                font-size:16px;
+            @font-face {
+                font-family: "VarelaRound-Regular";
+                src: url("VarelaRound-Regular.ttf"), url("VarelaRound-Regular.ttf");
+            }
+            body {
+                background-image: url(pattern.png);
+                background-repeat: repeat;
+                color: #f368e0;
+                font-family: VarelaRound-Regular;
+            }
+            .container {
+                position:absolute;
+                left:0px;
+                top:40%;
+                width:100%;
+            }
+            .item {
                 margin:0px;
                 padding:0px;
                 text-align:center;
                 width:50%;
                 padding:0 25%;
             }
-            div {
-                position:absolute;
-                left:0px;
-                top:40%;
-                width:100%;
+            h1 {
+                font-size:30px;
+            }
+            h2 {
+                font-size:15px;
+            }
+            a:link, a:visited, a:hover, a:active {
+                color: #fafafa;
+                text-decoration: none;
             }
         </style>
     </head>
     <body>
-        <div>
-            <p><strong>Fleeches (FL-EE-CHUH)</strong> are large, greenish leech-like creatures found in Oddworld’s swamps, jungles, underground vaults, and sewers.<br /><br />Abe encounters Fleeches during his travels through Necrum and the Soulstorm Brewery Kennels.</p>
+        <div class="container">
+            <div class="item">
+                <h1>Purchased one of my badges? Thank you!</h1>
+                <h2><a href="https://twitter.com/phl33ch">phleech</a></h2>
+            </div>
         </div>
     </body>
 </html>
